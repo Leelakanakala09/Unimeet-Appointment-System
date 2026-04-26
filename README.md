@@ -126,14 +126,15 @@ Frontend runs at → http://localhost:3000
 
 ## 🎥 Project Videos
 
-- **Code Explanation Video:** [Add your GitHub/YouTube link here]
-- **Project Overview Video:** [Add your GitHub/YouTube link here]
+- **Code Explanation Video:** frontend - https://drive.google.com/drive/folders/1qYmpQ8iVWNy4aMHCkJSEipFrE6ntP10h?usp=drive_link
+- backend - https://drive.google.com/file/d/1IqIoAx3aWPj5XBfLKx9QLwZjIXkZOdr5/view?usp=drive_link
+- **Project Overview Video:** https://drive.google.com/drive/folders/15gkZvrUtcENk6KZzmILg7jsH4zy3bNpE?usp=sharing
 
 ---
 
 ## 📌 GitHub Repository
 
-[Add your repository link here]
+https://github.com/Leelakanakala09/Unimeet-Appointment-System
 
 ---
 
